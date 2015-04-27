@@ -13,10 +13,6 @@ import com.jogamp.opengl.glu.GLU;
 import com.jogamp.opengl.util.Animator;
 import com.jogamp.opengl.util.gl2.GLUT;
 
-/**
- * Self-contained example (within a single class only to keep it simple)
- * displaying a rotating quad
- */
 public class JOGLPlanets implements GLEventListener {
     static final GLCanvas canvas = new GLCanvas();
     private float rotateT = 0.0f;
