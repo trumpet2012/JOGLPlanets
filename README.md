@@ -6,3 +6,7 @@ This sub moon also has two othermoons that revolve around it.
 
 ### Requirements
 This project requires JOGL and Gluegen to be installed.
+
+## Screenshots
+![Solar System](http://i.imgur.com/uqL6RUI.png?1)
+![Solar System](http://i.imgur.com/Uu84MDA.png?1)
